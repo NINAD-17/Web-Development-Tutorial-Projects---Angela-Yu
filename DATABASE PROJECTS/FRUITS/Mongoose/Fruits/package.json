@@ -1,0 +1,14 @@
+{
+  "name": "fruits",
+  "version": "1.0.0",
+  "description": "'Fruits DB using mongoose'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ninad Dhulap",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.4"
+  }
+}
